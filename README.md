@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ritik204/DSA-Solution/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/ritik204/DSA-Solution/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritik204/DSA-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ritik204/DSA-Solution/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ritik204/DSA-Solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
