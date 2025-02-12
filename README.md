@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ritik204/DSA-Solution/tree/master/0202-happy-number) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ritik204/DSA-Solution/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritik204/DSA-Solution/tree/master/0014-longest-common-prefix) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ritik204/DSA-Solution/tree/master/1904-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
