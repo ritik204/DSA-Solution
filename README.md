@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ritik204/DSA-Solution/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/ritik204/DSA-Solution/tree/master/0162-find-peak-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ritik204/DSA-Solution/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ritik204/DSA-Solution/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritik204/DSA-Solution/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
