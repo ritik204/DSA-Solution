@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ritik204/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ritik204/DSA-Solution/tree/master/0724-find-pivot-index) |
+| [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ritik204/DSA-Solution/tree/master/0155-min-stack) |
+| [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ritik204/DSA-Solution/tree/master/0202-happy-number) |
+| [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ritik204/DSA-Solution/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -86,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
