@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ritik204/DSA-Solution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
 | [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/ritik204/DSA-Solution/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/ritik204/DSA-Solution/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
