@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ritik204/DSA-Solution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/ritik204/DSA-Solution/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -138,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -156,4 +161,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
