@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritik204/DSA-Solution/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/ritik204/DSA-Solution/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/ritik204/DSA-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ritik204/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0554-brick-wall](https://github.com/ritik204/DSA-Solution/tree/master/0554-brick-wall) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ritik204/DSA-Solution/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/ritik204/DSA-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0554-brick-wall](https://github.com/ritik204/DSA-Solution/tree/master/0554-brick-wall) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ritik204/DSA-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ritik204/DSA-Solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
