@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ritik204/DSA-Solution/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ritik204/DSA-Solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ritik204/DSA-Solution/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/ritik204/DSA-Solution/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritik204/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ritik204/DSA-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ritik204/DSA-Solution/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ritik204/DSA-Solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ritik204/DSA-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
