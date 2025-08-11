@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/ritik204/DSA-Solution/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritik204/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ritik204/DSA-Solution/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/ritik204/DSA-Solution/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
 | [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ritik204/DSA-Solution/tree/master/1127-last-stone-weight) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ritik204/DSA-Solution/tree/master/0162-find-peak-element) |
+| [0792-binary-search](https://github.com/ritik204/DSA-Solution/tree/master/0792-binary-search) |
 ## Tree
 |  |
 | ------- |
