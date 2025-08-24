@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ritik204/DSA-Solution/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ritik204/DSA-Solution/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ritik204/DSA-Solution/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/ritik204/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ritik204/DSA-Solution/tree/master/1127-last-stone-weight) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ritik204/DSA-Solution/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ritik204/DSA-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ritik204/DSA-Solution/tree/master/0817-design-hashmap) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritik204/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0554-brick-wall](https://github.com/ritik204/DSA-Solution/tree/master/0554-brick-wall) |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ritik204/DSA-Solution/tree/master/0817-design-hashmap) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ritik204/DSA-Solution/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -136,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ritik204/DSA-Solution/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ritik204/DSA-Solution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/ritik204/DSA-Solution/tree/master/0817-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
